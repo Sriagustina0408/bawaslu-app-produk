@@ -25,5 +25,16 @@ Pastikan sistem Anda memenuhi persyaratan berikut sebelum memulai:
 
 1. Clone repositori ini ke perangkat Anda:
 
-```bash
-git clone https://github.com/username/nama-repo.git
+   ```bash
+   git@github.com:Sriagustina0408/bawaslu-app-produk.git
+   ```
+2. Buka terminal dan navigasikan ke direktori proyek:
+   ```cd bawaslu-app-produk```
+
+3. Install semua dependensi dengan menjalankan perintah:
+   ```npm install```
+
+## Penggunaan
+1. Jalankan aplikasi dengan menjalankan perintah:
+   ```npm start```
+
